@@ -31,3 +31,11 @@
 /Users/infan002/Projects/CarSpec7/CarSpec7/bin/Debug/nunit.framework.dll
 /Users/infan002/Projects/CarSpec7/CarSpec7/bin/Debug/Newtonsoft.Json.xml
 /Users/infan002/Projects/CarSpec7/CarSpec7/bin/Debug/nunit.framework.xml
+/Users/infan002/Projects/CarSpec7/CarSpec7/obj/Debug/CarSpec7.Views.NextPage2.xaml.g.cs
+/Users/infan002/Projects/CarSpec7/CarSpec7/bin/Debug/System.Net.Http.dll
+/Users/infan002/Projects/CarSpec7/CarSpec7/bin/Debug/System.Net.Http.Extensions.dll
+/Users/infan002/Projects/CarSpec7/CarSpec7/bin/Debug/System.Net.Http.Primitives.dll
+/Users/infan002/Projects/CarSpec7/CarSpec7/bin/Debug/System.Net.Http.xml
+/Users/infan002/Projects/CarSpec7/CarSpec7/bin/Debug/System.Net.Http.Extensions.xml
+/Users/infan002/Projects/CarSpec7/CarSpec7/bin/Debug/System.Net.Http.Primitives.xml
+/Users/infan002/Projects/CarSpec7/CarSpec7/bin/Debug/Microsoft.Practices.ServiceLocation.dll.mdb

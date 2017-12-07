@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
-  <Jars>obj/Debug/__library_projects__/FormsViewGroup/library_project_imports/formsviewgroup.jar;/Users/infan002/Projects/CarSpec7/CarSpec7.Droid/obj/Debug/__library_projects__/FormsViewGroup/library_project_imports/formsviewgroup.jar</Jars>
+  <Jars>/Users/infan002/Projects/CarSpec7/CarSpec7.Droid/obj/Debug/__library_projects__/FormsViewGroup/library_project_imports/formsviewgroup.jar</Jars>
   <ResolvedResourceDirectories>
     <ResolvedResourceDirectory>/Users/infan002/Projects/CarSpec7/CarSpec7.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/infan002/Projects/CarSpec7/CarSpec7.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/res</ResolvedResourceDirectory>

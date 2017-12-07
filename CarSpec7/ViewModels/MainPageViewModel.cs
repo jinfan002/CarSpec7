@@ -4,6 +4,8 @@ using Prism.Navigation;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Collections.ObjectModel;
+using System.Net.Http;
 
 namespace CarSpec7.ViewModels
 {
@@ -39,7 +41,10 @@ namespace CarSpec7.ViewModels
             Info1 = "The App that will help you and your car enthusiast needs! Look up car specs, pricing, mgh, mph, etc.\n\n\n";
             Button1text = "Start Searching";
         }
-
+        private async void NavtoNewPage()
+        {
+            await _navigationservice.NavigateAsync("NextPage2");
+        }
         public void OnNavigatedFrom(NavigationParameters parameters)
         {
 
@@ -47,6 +52,7 @@ namespace CarSpec7.ViewModels
 
         public void OnNavigatedTo(NavigationParameters parameters)
         {
+            
            
         }
 

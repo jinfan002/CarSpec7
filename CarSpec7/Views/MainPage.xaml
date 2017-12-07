@@ -48,6 +48,7 @@
         />
         <Button 
         Text = "{Binding Button1text}"
-        Style="{StaticResource HeaderStyle}"/>
+        Command="{Binding NavtoNextPage}"
+        Style="{StaticResource ButtonStyle}"/>
     </StackLayout>
 </ContentPage>

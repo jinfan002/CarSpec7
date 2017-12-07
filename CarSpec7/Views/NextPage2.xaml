@@ -1,5 +1,53 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CarSpec7.Views.NextPage2">
-	<ContentPage.Content>
-	</ContentPage.Content>
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="CarSpec7.Views.NextPage2"
+    xmlns:behaviors="clr-namespace:Prism.Behaviors;assembly=Prism.Forms"
+    xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+    Padding = "0,40,0,0">
+            <ContentPage.Resources>
+            <ResourceDictionary>
+                
+                <Style x:key = "baseStyle" TargetType="View">
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="VerticalOptions" Value="CenterAndExpand"/>
+                </Style>  
+
+                <Style x:Key="RegularLabel" TargetType="Label" BasedOn="{StaticResource baseStyle}">
+                    <Setter Property = "FontSize" Value="18"/>
+                    <Setter Property= " Font Attributes" Value="Bold"/>
+                    <Setter Property = "TextColor" Value = "Black" />
+                </Style>
+                
+                <Style x:Key="ButtonStyle" TargetType="Button" BasedOn="{StaticResource baseStyle}">
+                    <Setter Property = "FontSize" Value="18"/>
+                    <Setter Property= " Font Attributes" Value="Bold"/>
+                    <Setter Property = "TextColor" Value = "Blue" />
+                </Style>
+                
+                </ResourceDictionary>
+        </ContentPage.Resources>
+        <StackLayout>
+    <Label 
+    Text  ="{Binding Text1"
+    Style="{StaticResource RegularLabel}"/>
+    <Entry 
+        Text = "{Binding Year}"/>
+    <Entry
+        Text = "{Binding MakeT}"/>
+    <Entry 
+        Text ="{Binding ModelT}"/>
+    <Entry
+        Text ="{Binding MorU}"/>
+    <Button
+        Text ="{Binding NextPage2}"
+    Command ="{NavToThirdPage}"
+    Style="{StaticResource ButtonStyle}"/>
+      <Button
+        Text ="Go back"
+    Command ="{Binding GoBackCommand}"
+    Style="{StaticResource ButtonStyle}"/>
+    
+    </StackLayout>
 </ContentPage>

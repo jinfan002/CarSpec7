@@ -68,3 +68,4 @@
 /Users/infan002/Projects/CarSpec7/CarSpec7.iOS/obj/iPhoneSimulator/Debug/CarSpec7.iOS.csproj.CoreCompileInputs.cache
 /Users/infan002/Projects/CarSpec7/CarSpec7.iOS/obj/iPhoneSimulator/Debug/CarSpec7.iOS.exe
 /Users/infan002/Projects/CarSpec7/CarSpec7.iOS/obj/iPhoneSimulator/Debug/CarSpec7.iOS.pdb
+/Users/infan002/Projects/CarSpec7/CarSpec7.iOS/bin/iPhoneSimulator/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
