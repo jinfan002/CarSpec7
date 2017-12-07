@@ -1,0 +1,4 @@
+/Users/infan002/Projects/CarSpec7/CarSpec7.Droid/obj/Debug/CarSpec7.Droid.csprojResolveAssemblyReference.cache
+/Users/infan002/Projects/CarSpec7/CarSpec7.Droid/obj/Debug/CarSpec7.Droid.csproj.CoreCompileInputs.cache
+/Users/infan002/Projects/CarSpec7/CarSpec7.Droid/obj/Debug/CarSpec7.Droid.dll
+/Users/infan002/Projects/CarSpec7/CarSpec7.Droid/obj/Debug/CarSpec7.Droid.pdb

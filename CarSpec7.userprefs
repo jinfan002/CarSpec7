@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{2B3020A7-9A7C-46E5-9B3E-A860CA641475}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarSpec7/ViewModels/NextPage2ViewModel.cs">
+    <Files>
+      <File FileName="CarSpec7/App.xaml" Line="4" Column="1" />
+      <File FileName="CarSpec7/Views/MainPage.xaml" Line="46" Column="29" />
+      <File FileName="CarSpec7/ViewModels/MainPageViewModel.cs" Line="1" Column="1" />
+      <File FileName="CarSpec7.iOS/Main.cs" Line="10" Column="29" />
+      <File FileName="CarSpec7/App.xaml.cs" Line="17" Column="10" />
+      <File FileName="CarSpec7/Views/NextPage2.xaml" Line="6" Column="1" />
+      <File FileName="CarSpec7/ViewModels/NextPage2ViewModel.cs" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CarSpec7.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E2AAA95C-DE41-496B-9093-7A679F39D0BE">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.CarSpec7.iOS>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
